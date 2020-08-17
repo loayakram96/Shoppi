@@ -4,7 +4,7 @@
   "description": "ShoppingList",
   "main": "server.js",
   "engines": {
-    "node": "12.18.3"
+    "node": "12.x"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
