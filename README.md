@@ -1,4 +1,4 @@
-# Shopping-List
+# Shoppi
 - Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 - Authentication is implemented using JWT 
 
